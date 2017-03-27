@@ -1,6 +1,6 @@
 <?php
-namespace houdunwang\cart\build;
-use houdunwang\session\Session;
+namespace \cart\build;
+use \session\Session;
 
 /**
  * 购物车处理类
