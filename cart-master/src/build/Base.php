@@ -1,12 +1,4 @@
 <?php
-/** .-------------------------------------------------------------------
- * |  Software: [HDCMS framework]
- * |      Site: www.hdcms.com
- * |-------------------------------------------------------------------
- * |    Author: 向军 <2300071698@qq.com>
- * |    WeChat: aihoudun
- * | Copyright (c) 2012-2019, www.houdunwang.com. All Rights Reserved.
- * '-------------------------------------------------------------------*/
 namespace houdunwang\cart\build;
 use houdunwang\session\Session;
 
@@ -30,7 +22,7 @@ class Base {
 	 *      $data为数组包含以下几个值
 	 *      $Data=array(
 	 *      "id"=>1,                        //商品ID
-	 *      "name"=>"后盾网2周年西服",         //商品名称
+	 *      "name"=>"2周年西服",         //商品名称
 	 *      "num"=>2,                       //商品数量
 	 *      "price"=>188.88,                //商品价格
 	 *      "options"=>array(               //其他参数，如价格、颜色可以是数组或字符串|可以不添加
